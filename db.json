@@ -1,0 +1,80 @@
+{
+  "data": {
+    "electronics": {
+      "name": "electronics",
+      "items": [
+        {
+          "nameCategory": "computers",
+          "items": ["apple", "dell", "lenovo", "asus"],
+          "img": "https://source.unsplash.com/200x200/?electronic,computer"
+        },
+        {
+          "nameCategory": "electronic",
+          "items": ["headset", "speakers", "powerpanks", "charges"],
+          "img": "https://source.unsplash.com/200x200/?electronic,electronic"
+        },
+        {
+          "nameCategory": "camera",
+          "items": ["dslr", "canon", "niko", "lens"],
+          "img": "https://source.unsplash.com/200x200/?electronic,camera"
+        },
+        {
+          "nameCategory": "pc accsesories",
+          "items": ["sandisk", "king stone", "westren digital", "microsoft"],
+          "img": "https://source.unsplash.com/200x200/?electronic,camera"
+        }
+      ]
+    },
+    "mobilesAndTablets": {
+      "name": "mobiles & tablets",
+      "nameCategory": "mobiles & tablets",
+      "items": [
+        "apple",
+        "samsung",
+        "one plus",
+        "xiaomi",
+        "oppo",
+        "tecno",
+        "lenovo",
+        "nokia",
+        "lg",
+        "sony",
+        "huawie",
+        "vivo",
+        "realmi",
+        "sico",
+        "infnix"
+      ],
+      "img": "https://source.unsplash.com/900x400/?electronic,mobiles"
+    },
+    "gaming": {
+      "name": "gaming",
+      "items": [
+        {
+          "nameCategory": "playstation",
+          "img": "https://source.unsplash.com/900x400/?games,playstation"
+        },
+        {
+          "nameCategory": "xbox",
+          "img": "https://source.unsplash.com/900x400/?games,xbox"
+        },
+        {
+          "nameCategory": "accsesories",
+          "img": "https://source.unsplash.com/900x400/?games,accseeories"
+        }
+      ]
+    }
+  },
+  "users": [
+    {
+      "id": 1,
+      "firstName": "karim",
+      "lastName": "tarek abdel aziz"
+    },
+    {
+      "id": 2,
+      "firstName": "osama",
+      "lastName": "mohamed"
+    }
+  ]
+}
