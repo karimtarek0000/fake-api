@@ -1,8 +1,9 @@
 {
-  "data": {
-    "electronics": {
+  "category-navbar": [
+    {
+      "id": 1,
       "name": "electronics",
-      "items": [
+      "allCategores": [
         {
           "nameCategory": "computers",
           "items": ["apple", "dell", "lenovo", "asus"],
@@ -25,10 +26,11 @@
         }
       ]
     },
-    "mobilesAndTablets": {
-      "name": "mobiles & tablets",
-      "nameCategory": "mobiles & tablets",
-      "items": [
+    {
+      "id": 2,
+      "name": "mobilesAndTablets",
+      "nameCategory": "mobilesAndTablets",
+      "allCategores": [
         "apple",
         "samsung",
         "one plus",
@@ -47,9 +49,10 @@
       ],
       "img": "https://source.unsplash.com/900x400/?electronic,mobiles"
     },
-    "gaming": {
+    {
+      "id": 3,
       "name": "gaming",
-      "items": [
+      "allCategores": [
         {
           "nameCategory": "playstation",
           "img": "https://source.unsplash.com/900x400/?games,playstation"
@@ -63,18 +66,6 @@
           "img": "https://source.unsplash.com/900x400/?games,accseeories"
         }
       ]
-    }
-  },
-  "users": [
-    {
-      "id": 1,
-      "firstName": "karim",
-      "lastName": "tarek abdel aziz"
-    },
-    {
-      "id": 2,
-      "firstName": "osama",
-      "lastName": "mohamed"
     }
   ]
 }
