@@ -31,7 +31,7 @@
       "id": 2,
       "switchLang": "mobiles",
       "name": "mobilesAndTablets",
-      "nameCategory": "mobiles and tablets",
+      "nameCategory": "mobiles",
       "allCategores": [
         "apple",
         "samsung",
