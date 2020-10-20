@@ -29,7 +29,7 @@
     },
     {
       "id": 2,
-      "switchLang": "mobiles & tablets",
+      "switchLang": "mobiles",
       "name": "mobilesAndTablets",
       "nameCategory": "mobiles and tablets",
       "allCategores": [
@@ -101,9 +101,9 @@
     },
     {
       "id": 2,
-      "switchLang": "موبايلات و تابلت",
+      "switchLang": "موبايلات",
       "name": "mobilesAndTablets",
-      "nameCategory": "موبايلات و تابلت",
+      "nameCategory": "موبايلات",
       "allCategores": [
         "apple",
         "samsung",
