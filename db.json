@@ -1,7 +1,8 @@
 {
-  "category-navbar": [
+  "category-navbar-en": [
     {
       "id": 1,
+      "switchLang": "electronics",
       "name": "electronics",
       "allCategores": [
         {
@@ -28,8 +29,9 @@
     },
     {
       "id": 2,
+      "switchLang": "mobilesAndTablets",
       "name": "mobilesAndTablets",
-      "nameCategory": "mobilesAndTablets",
+      "nameCategory": "mobiles and tablets",
       "allCategores": [
         "apple",
         "samsung",
@@ -51,6 +53,7 @@
     },
     {
       "id": 3,
+      "switchLang": "gaming",
       "name": "gaming",
       "allCategores": [
         {
@@ -66,6 +69,106 @@
           "img": "https://source.unsplash.com/900x400/?games,accseeories"
         }
       ]
+    }
+  ],
+  "category-navbar-ar": [
+    {
+      "id": 1,
+      "switchLang": "الكترونيات",
+      "name": "electronics",
+      "allCategores": [
+        {
+          "nameCategory": "كمبيوتر",
+          "items": ["apple", "dell", "lenovo", "asus"],
+          "img": "https://source.unsplash.com/200x200/?electronic,computer"
+        },
+        {
+          "nameCategory": "الكترونيات",
+          "items": ["headset", "speakers", "powerpanks", "charges"],
+          "img": "https://source.unsplash.com/200x200/?electronic,electronic"
+        },
+        {
+          "nameCategory": "كاميرات",
+          "items": ["dslr", "canon", "niko", "lens"],
+          "img": "https://source.unsplash.com/200x200/?electronic,camera"
+        },
+        {
+          "nameCategory": "اكسسوارات كمبيوتر",
+          "items": ["sandisk", "king stone", "westren digital", "microsoft"],
+          "img": "https://source.unsplash.com/200x200/?electronic,camera"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "switchLang": "موبايلات و تابلت",
+      "name": "mobilesAndTablets",
+      "nameCategory": "موبايلات و تابلت",
+      "allCategores": [
+        "apple",
+        "samsung",
+        "one plus",
+        "xiaomi",
+        "oppo",
+        "tecno",
+        "lenovo",
+        "nokia",
+        "lg",
+        "sony",
+        "huawie",
+        "vivo",
+        "realmi",
+        "sico",
+        "infnix"
+      ],
+      "img": "https://source.unsplash.com/900x400/?electronic,mobiles"
+    },
+    {
+      "id": 3,
+      "switchLang": "العاب",
+      "name": "gaming",
+      "allCategores": [
+        {
+          "nameCategory": "بلاي ستيشن",
+          "img": "https://source.unsplash.com/900x400/?games,playstation"
+        },
+        {
+          "nameCategory": "اكس بوكس",
+          "img": "https://source.unsplash.com/900x400/?games,xbox"
+        },
+        {
+          "nameCategory": "اكسسورات",
+          "img": "https://source.unsplash.com/900x400/?games,accseeories"
+        }
+      ]
+    }
+  ],
+  "slider": [
+    {
+      "title": "iphone",
+      "description": "lorem ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy.",
+      "img": "https://i.postimg.cc/9Fy8VrKd/1.jpg"
+    },
+    {
+      "title": "oppo",
+      "description": "lorem ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy.",
+      "img": "https://i.postimg.cc/mr7pZhPf/2.jpg"
+    },
+    {
+      "title": "macbook pro",
+      "description": "lorem ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy.",
+      "img": "https://i.postimg.cc/KjpJpMHL/3.jpg"
+    },
+    {
+      "title": "apple smart watch",
+      "description": "lorem ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy.",
+      "img": "https://i.postimg.cc/m2qmQ7MW/4.jpg"
+    },
+    {
+      "title": "playstation 5",
+      "description": "lorem ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy.",
+      "note": "coming soon",
+      "img": "https://i.postimg.cc/9fcgMCZD/5.jpg"
     }
   ]
 }
