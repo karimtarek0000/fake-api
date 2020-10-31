@@ -240,5 +240,29 @@
       "discount": 100,
       "img": "https://i.postimg.cc/hvQjwSYT/download-min.png"
     }
+  ],
+  "appleProducts": [
+    {
+      "title": "macbook pro 2017",
+      "price": 234,
+      "rating": 3,
+      "img": "https://i.postimg.cc/CLKjjj4K/50061505-575246-min.png",
+      "status": "hot",
+      "discount": 23
+    },
+    { "title": "iphone pro max", "price": 234, "rating": 3.5, "img": "https://i.postimg.cc/Bb7PhVCn/download-min.png", "discount": 23 },
+    { "title": "imac 4k 2019", "price": 234, "rating": 3.7, "img": "https://i.postimg.cc/C5xfsgk2/download-1-min.png", "discount": 23 },
+    { "title": "macbook pro 2020", "price": 234, "rating": 3.9, "img": "https://i.postimg.cc/MTDQBTMR/download-2-min.png", "discount": 23 },
+    { "title": "smart watch 2019", "price": 234, "rating": 4, "img": "https://i.postimg.cc/mgvCfKWc/download-3-min.png", "discount": 23 },
+    { "title": "macbook 2016", "price": 500, "rating": 2, "img": "https://i.postimg.cc/pdK82kPs/download-4-min.png", "discount": 23 },
+    {
+      "title": "airpods apple",
+      "price": 500,
+      "rating": 4.5,
+      "img": "https://i.postimg.cc/zB5h3WB8/download-5-min.png",
+      "status": "new",
+      "discount": 23
+    },
+    { "title": "iphone pro 2019", "price": 180, "rating": 5, "img": "https://i.postimg.cc/c45fTrDB/download-6-min.png", "discount": 23 }
   ]
 }
