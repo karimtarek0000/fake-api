@@ -142,33 +142,5 @@
         }
       ]
     }
-  ],
-  "slider": [
-    {
-      "title": "iphone",
-      "description": "lorem ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy.",
-      "img": "https://i.postimg.cc/9Fy8VrKd/1.jpg"
-    },
-    {
-      "title": "oppo",
-      "description": "lorem ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy.",
-      "img": "https://i.postimg.cc/mr7pZhPf/2.jpg"
-    },
-    {
-      "title": "macbook pro",
-      "description": "lorem ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy.",
-      "img": "https://i.postimg.cc/KjpJpMHL/3.jpg"
-    },
-    {
-      "title": "apple smart watch",
-      "description": "lorem ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy.",
-      "img": "https://i.postimg.cc/m2qmQ7MW/4.jpg"
-    },
-    {
-      "title": "playstation 5",
-      "description": "lorem ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy.",
-      "note": "coming soon",
-      "img": "https://i.postimg.cc/9fcgMCZD/5.jpg"
-    }
   ]
 }
