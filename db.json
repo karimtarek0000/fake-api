@@ -142,5 +142,103 @@
         }
       ]
     }
+  ],
+  "sliderHeader": [
+    {
+      "title": "iphone",
+      "description": "lorem ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy.",
+      "img": "https://i.postimg.cc/9Fy8VrKd/1.jpg"
+    },
+    {
+      "title": "oppo",
+      "description": "lorem ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy.",
+      "img": "https://i.postimg.cc/mr7pZhPf/2.jpg"
+    },
+    {
+      "title": "macbook pro",
+      "description": "lorem ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy.",
+      "img": "https://i.postimg.cc/KjpJpMHL/3.jpg"
+    },
+    {
+      "title": "apple smart watch",
+      "description": "lorem ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy.",
+      "img": "https://i.postimg.cc/m2qmQ7MW/4.jpg"
+    },
+    {
+      "title": "playstation 5",
+      "description": "lorem ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy.",
+      "note": "coming soon",
+      "img": "https://i.postimg.cc/9fcgMCZD/5.jpg"
+    }
+  ],
+  "bestPrice": [
+    {
+      "title": "iphone",
+      "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, labor",
+      "price": 300,
+      "img": "https://i.postimg.cc/V6LZ3TJ3/1.jpg"
+    },
+    {
+      "title": "oculus rift",
+      "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, labor",
+      "price": 344,
+      "img": "https://i.postimg.cc/7PSXKwtf/3.jpg"
+    },
+    {
+      "title": "goPro hero 6",
+      "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, labor",
+      "price": 255,
+      "img": "https://i.postimg.cc/C5p7wQ5h/2.jpg"
+    }
+  ],
+  "sliderNewProducts": [
+    {
+      "title": "macbook pro 2020",
+      "price": 110,
+      "discount": 100,
+      "img": "https://i.postimg.cc/hvQjwSYT/download-min.png"
+    },
+    {
+      "title": "airpods apple 2020",
+      "price": 400,
+      "discount": 30,
+      "img": "https://i.postimg.cc/13Qhh9TP/d-min.png"
+    },
+    {
+      "title": "laptop dell xps 2020",
+      "price": 900,
+      "discount": 30,
+      "img": "https://i.postimg.cc/hjhNbhJ8/download-1-min.png"
+    },
+    {
+      "title": "tv samsung 4k 2020",
+      "price": 950,
+      "discount": 50,
+      "img": "https://i.postimg.cc/FKT2L0Ks/download-2-min.png"
+    },
+    {
+      "title": "iphone pro max 12",
+      "price": 800,
+      "discount": 40,
+      "img": "https://i.postimg.cc/050HMpHg/d.png"
+    },
+    {
+      "title": "tv lg 4k 2020",
+      "price": 1000,
+      "discount": 50,
+      "img": "https://i.postimg.cc/Gmx0bWwD/download-3-min.png"
+    },
+    {
+      "title": "macbook pro 2020",
+      "price": 200,
+      "discount": 100,
+      "img": "https://i.postimg.cc/hvQjwSYT/download-min.png"
+    },
+    {
+      "title": "macbook pro 2020",
+      "price": 200,
+      "discount": 100,
+      "img": "https://i.postimg.cc/hvQjwSYT/download-min.png"
+    }
   ]
 }
